@@ -1,0 +1,11 @@
+{
+  "scan_step_deg": 3,
+  "forward_domain_limit_deg": 85,
+  "support_radius_deg": 10,
+  "min_support_fraction": 0.5,
+  "matched_eccentricity_tolerance_deg": 2,
+  "min_center_separation_deg": 5,
+  "far_occupancy_margin": 0.02,
+  "min_far_eccentricity_difference_deg": 10,
+  "status": "可配置Pilot探索规则，非冻结标准或显著性检验"
+}

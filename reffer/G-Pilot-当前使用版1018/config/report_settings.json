@@ -1,0 +1,14 @@
+{
+  "bin_deg": 1,
+  "smoothing_sigma_deg": 1.5,
+  "visual_field_reference": {
+    "file": "assets/visual_field_reference.jpg",
+    "center_px": [
+      664,
+      539
+    ],
+    "outer_radius_px": 439,
+    "outer_radius_deg": 90,
+    "note": "用户提供Jones等2013图1；向前观看尺度参照，非个体视野测量"
+  }
+}

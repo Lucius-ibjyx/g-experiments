@@ -1,0 +1,24 @@
+# Track source code and dependency/build configuration only.
+*
+!*/
+!.gitignore
+!*.py
+!*.sh
+!*.command
+!requirements*.txt
+!pyproject.toml
+!poetry.lock
+!uv.lock
+!setup.cfg
+!Pipfile
+!Pipfile.lock
+!Makefile
+!Dockerfile
+!/reffer/G-Pilot-当前使用版1018/config/*.json
+
+# Local environments, caches, and copied test/backup trees.
+.venv/
+venv/
+__pycache__/
+验证隔离/
+修改备份/

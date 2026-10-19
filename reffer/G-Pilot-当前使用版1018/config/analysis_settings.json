@@ -1,0 +1,7 @@
+{
+  "stage_timeline_fps": 30,
+  "aoi_tolerance_deg": 0,
+  "scene_hfov_deg": 95.0,
+  "scene_vfov_deg": 63.0,
+  "aoi_episode_gap_s": 0.1
+}
